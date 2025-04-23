@@ -74,10 +74,9 @@ We tested all models on **two dataset versions**:
 ## 🚀 How to Run  
 Clone the repo:  
  ```bash
- git clone https://github.com/your-username/repo-name.git
- cd microbes-ml
+ git https://github.com/AlexandraKarabutova/Microorganism-Classification-ML.git
+ cd Microorganism-Classification-ML
+```
  jupyter notebooks:
-- Main_With duplicates.ipynd - EDA and models for data *with* duplicates
-- Add_Without duplicates.ipynb - EDA and models for data *without* duplicates
-
-microbes.csv - data
+- **Main_With duplicates.ipynb** - EDA and models for data _with_ duplicates  
+- **Add_Without duplicates.ipynb** - EDA and models for data _without_ duplicates
